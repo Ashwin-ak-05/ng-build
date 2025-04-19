@@ -1,27 +1,67 @@
-# TestProject
+# Ashwin Kumar Anbaiah  
+**Full Stack Developer**  
+📞 +91-9790969602  
+📧 ashwineceofficial@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/ashwin-kumar-anbaiah/) | [GitHub](https://github.com/Ashwin-ak-05) | [Leetcode](https://leetcode.com/u/AshwinAK05/)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.4.
+---
 
-## Development server
+## 🛠️ Skills
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Programming Languages**: JavaScript, Java, TypeScript, C#, SQL  
+- **Libraries and Frameworks**: .NET Framework, Spring Boot, Angular, React, Jasmine, Karma (Unit Testing)  
+- **Tools**: Azure DevOps, Postman, Git, GitHub  
+- **Other Skills**: Data Structures, Low Level Design, HTML, CSS  
 
-## Code scaffolding
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 💼 Experience
 
-## Build
+### **Software Development Engineer (Full Stack)**  
+**Clarium Tech** — *Aug 2021 - Present*
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Developed RESTful APIs using .NET Core and Spring Boot for enterprise-level applications.  
+- Built micro frontends using Single-SPA, React, and Angular for modular and scalable development.  
+- Designed and implemented a base architecture for a major .NET Core project, enabling dynamic deployments across different environments.  
+- Integrated Razorpay payment gateway, handling both frontend and backend development.  
+- Gained strong knowledge of CI/CD deployment pipelines and their working methodologies.  
+- Participated in Agile methodology: daily stand-ups, sprint planning, and retrospectives.  
+- Improved API response time by 20% through optimized backend logic and database queries.  
+- Applied DSA to solve backend performance issues and optimize database queries.  
+- Worked with Jasmine and Karma for unit testing in Angular applications.  
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🚀 Projects
 
-## Running end-to-end tests
+### **McGriff Analytic Platform**
+- Developed frontend using Angular and implemented micro frontend architecture for scalable UI.  
+- Built and maintained backend services using .NET Core and designed the base architecture.  
+- Worked on database optimization for seamless data flow and performance.  
+- Implemented Angular unit testing using Jasmine and Karma.  
+- Contributed to CI/CD integration for frontend and backend services.  
+- Increased data processing speed by 40% through architectural enhancements.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### **Crump Insurance**
+- Developed responsive UIs using Angular.  
+- Focused on unit testing using Jasmine and Karma.  
+- Developed and optimized Spring Boot APIs.  
+- Maintained .NET APIs interacting with the database.  
+- Ensured code quality and collaborated with cross-functional teams.
 
-## Further help
+### **Crypto Trading Platform (Internal Project)**
+- Developed frontend using React.js for smooth UI/UX.  
+- Designed and implemented database architecture.  
+- Contributed to Python Flask APIs integrating core trading features.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+---
+
+## 🎓 Education
+
+**Scaler (2024)**  
+*Specialized in Software Development & Problem Solving*  
+
+**S.A. Engineering College, Anna University (2021)**  
+*Bachelor of Engineering (B.E.)*
+
+---
